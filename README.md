@@ -1,4 +1,4 @@
 # ExpandableRecyclerView
 Demo of expandable recyclerview
 
-![Alt text](/screenshots.png?raw=true "Expandable Recyclerview")
+![Expandable Recyclerview Screenshot](/screenshot.png?raw=true "Expandable Recyclerview")
