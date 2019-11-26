@@ -1,4 +1,5 @@
-# Expandable Recycler View [![Build Status](https://travis-ci.org/krunal3kapadiya/ExpandableRecyclerView.svg?branch=master)](https://travis-ci.org/krunal3kapadiya/ExpandableRecyclerView)
+# Expandable Recycler View 
+[![Build Status](https://travis-ci.org/krunal3kapadiya/Expandable-RecyclerView.svg?branch=master)](https://travis-ci.org/krunal3kapadiya/Expandable-RecyclerView)
 
 <img src="/screenshot.png" width="450"/>
 
